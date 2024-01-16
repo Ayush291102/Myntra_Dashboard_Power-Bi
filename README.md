@@ -21,6 +21,8 @@ Datasets : Kaggle
 
 ![myntra_dashboard](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/0fc1686f-fc4b-40dc-95b8-527521c5bf8f)
 
+<img src = "https://github.com/Ayush291102/Myntra_Dashboard_Power-Bi/blob/main/1.png">
+
 # SignIn to Power Bi Desktop and copy paste the below link in browser to view.
 Myntra Power Bi Dashboard : https://app.powerbi.com/view?r=eyJrIjoiZjA2NTg3NTAtZjgzYy00NzQxLWFhM2YtNzAzMjcxYTkzODYzIiwidCI6ImVkZGQ2ZTMyLTc3MzMtNDQ3MS1iZTFmLTBjZjc0YjJjNmNhMSJ9
 
