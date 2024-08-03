@@ -2,7 +2,7 @@
 Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products, 
 Myntra aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal.
 
-![Myntra-logo-horizontal](https://github.com/rahulrajan15/amazon_sales_Tableau_dashbaord_/assets/113009011/5b371a43-d2eb-4095-9b83-ea2d0df51998)
+
 
 
 
